@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Otex
 - 👀 I’m interested in how things work
 - 🌱 I’m currently learning application development with C# and .Net, Network+ fundamentals
+- 💖 I'm currently building a companion app to help with ERP for my OCD
 - 💞️ I’m looking to collaborate on security projects
 - 📫 How to reach me: otex.bax@pm.me
 
