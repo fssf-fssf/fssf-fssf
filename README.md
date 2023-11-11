@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fssf-fssf
+- 👋 Hi, I’m Otex
 - 👀 I’m interested in how things work
 - 🌱 I’m currently learning application development with C# and .Net, Network+ fundamentals
 - 💞️ I’m looking to collaborate on security projects
