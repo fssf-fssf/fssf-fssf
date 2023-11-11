@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Otex
+- 👋 Hi, I’m O.t.e...x
 - 👀 I’m interested in how things work
 - 🌱 I’m currently learning application development with C# and .Net, all Network+ and Security+ content
 - 💖 I'm currently building a companion app to help with ERP for my OCD
